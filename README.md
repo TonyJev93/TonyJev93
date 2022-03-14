@@ -2,7 +2,7 @@
 
 <div align=center>
 <div align=right>
-  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feona1301"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTonyJev93&count_bg=%23A4D57E&title_bg=%233B509A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
 ![image](https://user-images.githubusercontent.com/53864640/158242230-813d7506-236b-4b65-b33b-66d82fd96c8a.png)
