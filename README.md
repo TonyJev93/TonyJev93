@@ -10,8 +10,6 @@
 [![Tech-Blog Badge](http://img.shields.io/badge/-Tech--Blog-black?style=flat-square&logo=github&logoColor=white&color=brightgreen&link=https://tonyjev93.github.io/)](https://tonyjev93.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jundogwon/)](https://www.instagram.com/jundogwon/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tonyjev93@gmail.com)](mailto:tonyjev93@gmail.com)
-
-<h1>잠깐 방학...! 충전하고 돌아오자(22. 05. 16. ~)</h1>
   
 </div>
 
